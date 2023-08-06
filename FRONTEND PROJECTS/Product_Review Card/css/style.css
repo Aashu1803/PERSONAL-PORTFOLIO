@@ -1,0 +1,70 @@
+body {
+    background-color: hsl(30, 38%, 92%);
+  }
+  
+.PERFUME {
+    float: left;
+    width: 300px;
+    height: 460px;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 15px;
+  }
+  
+  
+  .btn {
+    background: #3c5e52;
+    background-image: -webkit-linear-gradient(top, #3c5e52, #3c5e52);
+    background-image: -moz-linear-gradient(top, #3c5e52, #3c5e52);
+    background-image: -ms-linear-gradient(top, #3c5e52, #3c5e52);
+    background-image: -o-linear-gradient(top, #3c5e52, #3c5e52);
+    background-image: linear-gradient(to bottom, #3c5e52, #3c5e52);
+    -webkit-border-radius: 9;
+    -moz-border-radius: 9;
+    border-radius: 9px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 30px 10px 30px;
+    width: 150px;
+    height: 30px;
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    left: 10px;
+  }
+  
+  .btn:hover {
+    background: #669966;
+    background-image: -webkit-linear-gradient(top, #669966, #669966);
+    background-image: -moz-linear-gradient(top, #669966, #669966);
+    background-image: -ms-linear-gradient(top, #669966, #669966);
+    background-image: -o-linear-gradient(top, #669966, #669966);
+    background-image: linear-gradient(to bottom, #669966, #669966);
+    text-decoration: none;
+  }
+  
+  .chanel {
+    padding: 20% 30% 20% 30%;
+  }
+  
+  .price {
+    display: inline-block;
+  }
+  
+  .del {
+    float: right;
+    padding-right: 100px;
+    position: relative;
+    bottom: 75px;
+    right: 30px;
+    left: 0;
+  }
+  .TEXT {
+    padding: 10px 20px 0 300px;
+    margin-left: 30px;
+    width: 260px;
+    height: 450px;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+    background-color: white;
+  }
